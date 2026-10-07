@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Arquivos temporários / outputs gerados
+final_*.png
+icon_source.png
+app.ico
+make_icon.py
+build_exe.py
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
